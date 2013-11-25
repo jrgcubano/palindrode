@@ -1,3 +1,4 @@
+[![Build Status](https://secure.travis-ci.org/jrgcubano/palindrode.png)](http://travis-ci.org/jrgcubano/palindrode)
 # palindrode
 
 Playing with Grunt, nodeunit, travis, etc
